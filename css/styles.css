@@ -19,6 +19,11 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
+#btlogo{
+  margin-top: 100px;
+}
+
+
 hr {
     max-width: 80px;
     border-width: 3px;
@@ -231,7 +236,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-    background-image: url('https://splashbase.s3.amazonaws.com/lifeofpix/regular/Life-of-Pix-free-stock-photos-Slate-Stone-Xeromatic-1440x953.jpg');
+    background-image: url('images/kahlilanddad.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
