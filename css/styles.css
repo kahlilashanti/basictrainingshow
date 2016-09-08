@@ -84,6 +84,7 @@ p {
 
 .text-faded {
     color: rgba(245,245,245,0.7);
+    font-size: 20px;
 }
 
 .text-dark {
@@ -92,6 +93,10 @@ p {
 
 .text-primary {
     color: #9c27b0;
+}
+
+.text-center{
+  color: #9c27b0;
 }
 
 .modal-content {
@@ -112,6 +117,10 @@ footer {
 
 .no-padding {
     padding: 0;
+}
+
+#touring{
+  max-width: auto;
 }
 
 .navbar-default {
@@ -236,7 +245,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-    /*background-image: url('images/kahlilanddad.jpg');*/
+    background-image: url('images/chair.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
